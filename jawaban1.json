@@ -1,0 +1,31 @@
+{
+    "nama" : "Suryana",
+    "age" : 21,
+    "address" : "Kampung Cikiara RT 04 RW 02 Desa Wanakerta Kecamatan Bungursari Kabupaten Purwakarta",
+    "hobbies" : ["futsal","badminton","photography"],
+    "is_married": false,
+    "list_school" : [{
+        "name" : "Smk Pgri Cikampek",
+        "yaer_in" : 2013,
+        "year_out" : 2016,
+        "major" : "Teknik Otomotif",
+}
+{
+        "name" : "Smpn 1 Bungursari",
+        "yaer_in" : 2010,
+        "year_out" : 2013,
+        "major" : "null",               
+}
+{
+        "name" : "SDN Wanakerta",
+        "yaer_in" : 2004,
+        "year_out" : 2010,
+        "major" : "null",
+}],
+    "skills" : [{
+            "html" : "beginner",
+            "css" : "beginner",
+            "php" : "beginner",
+    }],
+    "interest_in_coding" : true,
+}
